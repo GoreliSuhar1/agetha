@@ -3,6 +3,7 @@ original here: https://chocolatebread.ddns.net/agetha.html
 
 Have fun!
 # agetha
+![Описание картинки](screenshots/screenshot0.png)
 i use arch btw
 # instalation guide
 # 1
