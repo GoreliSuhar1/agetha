@@ -1,4 +1,4 @@
-This is UNOFFICIAL port of Agetha on arch for wayland tested on hyprland
+This is UNOFFICIAL port of Agetha on arch for wayland tested on hyprland, gnome!
 
 original here: https://chocolatebread.ddns.net/agetha.html
 
